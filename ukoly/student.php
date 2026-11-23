@@ -1,6 +1,6 @@
 <?php
 // Ulozeni informaci o studentovi do proměnnych
-$jmeno = "Azifa";
+$jmeno = "Corina Peretchi";
 $vek = 18;
 $trida = "1. ročnik IT";
 $vyska = 1.50;
